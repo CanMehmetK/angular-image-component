@@ -1,1 +1,3 @@
-<p>image works!</p>
+<img [src]="getImageBase64()" style="min-width: 20px; max-width: 200px;max-height: 200px">
+<input (change)="onFileSelected($event)" accept="*.jpb,*.png"  type="file">
+{{base64Image}}
