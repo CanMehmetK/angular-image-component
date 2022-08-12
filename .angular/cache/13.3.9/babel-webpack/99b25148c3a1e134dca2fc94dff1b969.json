@@ -1,0 +1,1 @@
+{"ast":null,"code":"export function percentage(percent, totalValue) {\n  return percent / 100 * totalValue;\n}","map":null,"metadata":{},"sourceType":"module"}

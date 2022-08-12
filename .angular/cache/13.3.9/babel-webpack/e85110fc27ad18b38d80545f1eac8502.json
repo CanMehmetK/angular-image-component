@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var MoveTypes = /*#__PURE__*/(() => {\n  (function (MoveTypes) {\n    MoveTypes[\"Drag\"] = \"drag\";\n    MoveTypes[\"Move\"] = \"move\";\n    MoveTypes[\"Resize\"] = \"resize\";\n    MoveTypes[\"Pinch\"] = \"pinch\";\n  })(MoveTypes || (MoveTypes = {}));\n\n  return MoveTypes;\n})();","map":null,"metadata":{},"sourceType":"module"}
